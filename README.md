@@ -21,5 +21,5 @@ It also supports different features:
 
 ## Application Interface:  
 
-You choose the command to perform then apply it on canvas.  
+- You choose the command to perform then apply it on canvas.  
 ![pic](https://github.com/AhmedAdelSalama/VectorBasedDrwaingApp/blob/main/res/Picture1.png?raw=true)  
