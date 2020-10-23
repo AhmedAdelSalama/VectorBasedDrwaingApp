@@ -19,7 +19,7 @@ It also supports different features:
 
 ## Application Interface:  
 
-![pic](https://github.com/AhmedAdelSalama/VectorBasedDrwaingApp/blob/main/res/Picture1.png)  
+![pic](https://github.com/AhmedAdelSalama/VectorBasedDrwaingApp/blob/main/res/Picture1.png?raw=true)  
 You choose the command to perform then apply it on canvas.  
 
 ## Attached A Demo Video "demo.mp4"  
